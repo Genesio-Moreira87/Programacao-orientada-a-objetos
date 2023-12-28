@@ -45,4 +45,4 @@ Utilize o código indicado no material de apoio para testar sua classe.
 - Linkedin: https://www.linkedin.com/in/genesio-coutinho-554733124/
 - Kaggle:https://www.kaggle.com/genesiomoreira
 
-- Notebook para execução dos códigos Google Collab: https://colab.research.google.com/drive/1jP_MsWiomFq0Ec7Z6JNGCPejC1_1THqB?usp=sharing
+- Notebook para execução dos códigos Google Collab: https://colab.research.google.com/drive/1PoE8QI5EUr7p-Sm2UuMpoUqp6r7kT0a5?usp=sharing
